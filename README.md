@@ -1,17 +1,27 @@
 Prologue
+
 You have graduated from your three year program and you are trying to make it as a Junior Full Stack Developer. You are excited for the road ahead as you have landed a short term gig to develop a Web Application for a private organization. You have assembled the Team for this project.
 
 You have designed an API that aggregates data from all over the web and displays relevant information based on the user request. Here is the list of data types that need to be extracted from hundreds of pages of strings:
 
 *Movie Titles
+
 *Song Lyrics
+
 *Twitter Usernames
+
 *ISBN numbers
+
 *Jokes
+
 *TV Episode Titles
+
 *Weirdly Formatted Dates
+
 *Hex Color Code
+
 *IP Address
+
 *The Task
 
 In order to extract the required data from the hundreds of thousands of pages of string response you get from your API, you have decided to unleash the raw power of Regular Expressions. You already know how the specific types of data you are looking for appear in the string. This is how you have summarized that information, now all you have to do is write your Regular Expressions:
