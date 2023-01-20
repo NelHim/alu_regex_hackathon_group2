@@ -35,3 +35,4 @@ In order to extract the required data from the hundreds of thousands of pages of
 7. The dates should match the pattern dd-MMM-yyyy, where dd is a two-digit day, MMM is a three-letter month abbreviation, and yyyy is a four-digit year.
 8. The hex color codes should match the pattern "#XXXXXX" where X is any letter or digit.
 9. The IP addresses should match the pattern "xxx.xxx.xxx.xxx" where x is a digit between 0 and 255.
+git test -Avit
